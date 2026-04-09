@@ -10,6 +10,15 @@ This chatbot leverages modern NLP techniques and vector databases to create an i
 
 ## 🛠️ Tech Stack
 
+### Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0.4.22-56CC9D?style=flat&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1.2-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-4.36.2-FFC300?style=flat&logoColor=white)
+
 ### Core Framework
 - **Streamlit** (v1.29.0) - Web interface framework for rapid Python app development
 - **Python 3.x** - Programming language
